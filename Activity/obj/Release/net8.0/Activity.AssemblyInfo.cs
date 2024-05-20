@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Lunes-20-5-2024")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Activity")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f6a2ab793aaa815d28719b73e1f074095ff4176")]
-[assembly: System.Reflection.AssemblyProductAttribute("Lunes-20-5-2024")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Lunes-20-5-2024")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4fd58b73829dec9d40c66656785bc760e39f9c2")]
+[assembly: System.Reflection.AssemblyProductAttribute("Activity")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Activity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

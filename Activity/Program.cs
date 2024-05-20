@@ -7,7 +7,7 @@ class Program
     {
         List<int> numeros = new List<int>();
 
-        for (int i = 1; i <= 10;int++)
+        for (int i = 1; i <= 10; int++)
         {
             numeros.Add(i);
         }
@@ -92,3 +92,4 @@ class Program
 
     }
 }
+

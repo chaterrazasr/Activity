@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Charly\\source\\repos\\Lunes-20-5-2024\\Lunes-20-5-2024\\Lunes-20-5-2024.csproj": {}
+    "C:\\Users\\Charly\\source\\repos\\Activity\\Activity\\Activity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Charly\\source\\repos\\Lunes-20-5-2024\\Lunes-20-5-2024\\Lunes-20-5-2024.csproj": {
+    "C:\\Users\\Charly\\source\\repos\\Activity\\Activity\\Activity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Charly\\source\\repos\\Lunes-20-5-2024\\Lunes-20-5-2024\\Lunes-20-5-2024.csproj",
-        "projectName": "Lunes-20-5-2024",
-        "projectPath": "C:\\Users\\Charly\\source\\repos\\Lunes-20-5-2024\\Lunes-20-5-2024\\Lunes-20-5-2024.csproj",
+        "projectUniqueName": "C:\\Users\\Charly\\source\\repos\\Activity\\Activity\\Activity.csproj",
+        "projectName": "Activity",
+        "projectPath": "C:\\Users\\Charly\\source\\repos\\Activity\\Activity\\Activity.csproj",
         "packagesPath": "C:\\Users\\Charly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Charly\\source\\repos\\Lunes-20-5-2024\\Lunes-20-5-2024\\obj\\",
+        "outputPath": "C:\\Users\\Charly\\source\\repos\\Activity\\Activity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Charly\\AppData\\Roaming\\NuGet\\NuGet.Config",
